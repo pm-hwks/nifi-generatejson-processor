@@ -1,6 +1,8 @@
 # nifi-generatejson-processor
 A NiFi processor to generate JSON based on json-data-generator java library (https://github.com/acesinc/json-data-generator). 
 
+[![Build Status](https://travis-ci.org/pm-hwks/nifi-generatejson-processor.svg?branch=master)](https://travis-ci.org/pm-hwks/nifi-generatejson-processor)
+
 ## Installation :
 
 1. Download the nar file from github release tab and drop it in the NiFi lib folder $NIFIROOT/lib/
