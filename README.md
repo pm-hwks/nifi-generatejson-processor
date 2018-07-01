@@ -1,5 +1,6 @@
 # nifi-generatejson-processor
 A NiFi processor to generate JSON based on json-data-generator java library (https://github.com/acesinc/json-data-generator). 
+<div style="text-align:center"><img src ="./screenshots/logo.png" width="95%"/></div>
 
 [![Build Status](https://travis-ci.org/pm-hwks/nifi-generatejson-processor.svg?branch=master)](https://travis-ci.org/pm-hwks/nifi-generatejson-processor)
 
