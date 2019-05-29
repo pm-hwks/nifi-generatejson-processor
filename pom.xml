@@ -20,7 +20,7 @@
 
     <groupId>org.apache.nifi</groupId>
     <artifactId>nifi-generatejson-processor</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <packaging>nar</packaging>
 
     <developers>
