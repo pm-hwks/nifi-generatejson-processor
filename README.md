@@ -49,3 +49,9 @@ Flow File 1
 
 Flow File 2
 <div style="text-align:center"><img src ="./screenshots/second_flowfile.png" width="95%"/></div>
+
+
+## Build Notes
+
+1. Built & tested using JDK 1.8
+2. When using Intellij make sure the project SDK is pointing to JDK 1.8 otherwise the surefire tests may fail
